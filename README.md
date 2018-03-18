@@ -1,7 +1,9 @@
-# LatinSquareTask
+# Latin Square Task
 Matlab code for the Latin Square Task
 This repository contains Matlab scripts to present a computerized, serial response version of the Latin Square Task (Birney et al., 2006). This code was in “The Latin Square Task as a measure of relational reasoning: a replication and assessment of reliability”. Similar versions of this task have been used in other fMRI experiments (Hearne et al., 2017).
-The code requires PsychToolBox 3 and has been tested in Matlab 2013b,2014b and 2017b.
+
+The code requires **PsychToolBox 3** and has been tested in Matlab 2013b,2014b and 2017b.
+
 For further correspondence regarding the design of the original Latin Square Task you can [contact Damian Birney](http://damian.birney@sydney.edu.au) – the lead author on the initial papers designing the LST.
 For questions regarding this specific implementation you can [contact me](l.hearne@uq.edu.au).
 
