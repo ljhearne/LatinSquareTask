@@ -15,5 +15,6 @@ Files included:
 
 ## References
 Birney DP, Halford GS, Andrews G (2006) Measuring the Influence of Complexity on Relational Reasoning: The Development of the Latin Square Task. Educ Psychol Meas 66:146–171.
+
 Hearne LJ, Cocchi L, Zalesky A, Mattingley JB (2017) Reconfiguration of brain network architectures between resting-state and complexity-dependent cognitive reasoning. J Neurosci 37:0485–17.
 
